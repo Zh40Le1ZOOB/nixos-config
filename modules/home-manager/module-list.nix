@@ -1,0 +1,25 @@
+[
+  ./cli/atuin.nix
+  ./cli/bat.nix
+  ./cli/broot.nix
+  ./cli/btop.nix
+  ./cli/carapace.nix
+  ./cli/eza.nix
+  ./cli/fish.nix
+  ./cli/fzf.nix
+  ./cli/gh-dash.nix
+  ./cli/gh.nix
+  ./cli/git.nix
+  ./cli/gitui.nix
+  ./cli/helix.nix
+  ./cli/hyfetch.nix
+  ./cli/ripgrep.nix
+  ./cli/scmpuff.nix
+  ./cli/starship.nix
+  ./cli/yazi.nix
+  ./cli/zellij.nix
+  ./cli/zoxide.nix
+  ./gui/kitty.nix
+  ./gui/plasma.nix
+  ./gui/vscode.nix
+]
